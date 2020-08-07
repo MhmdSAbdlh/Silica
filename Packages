@@ -23,12 +23,12 @@ Changelog: Works on iOS up to 13.5.1
   .
   Update Some Icon.
 Name: Ace High Sierra
-Previews: https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_1.png, https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_2.png, https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_3.png
-Header: https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/banner.png
+Previews: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace1.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace2.jpg, https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/ace3.jpg
+Header: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/aceh.jpg
 Author: iAnas
 Depiction: https://mhmdsabdlh.github.io/Silica/depiction/web/com.MhmdSAbdlh.acehighsierra.html
 Prefer-Native: Yes
-Icon: https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/icon.png
+Icon: https://raw.githubusercontent.com/MhmdSAbdlh/Repo/master/depictions/com.MhmdSAbdlh.acehighsierra/screenshots/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::6.0-13.5
 Installed-Size: 18400
