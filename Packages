@@ -1,0 +1,35 @@
+ackage: com.mhmdsabdlh.acehighsierra
+Version: 5.2
+Section: Themes
+Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./pkg/com.mhmdsabdlh.acehighsierra_5.2.deb
+Size: 13040608
+MD5sum: c55fd92eab46fdfdf2aad3cf159a4ede
+SHA1: 3e092dc62f44dee71867c18b9846023ea58f067e
+SHA256: 327da83168d8d49e30965a10c582eeb360ef1f9a054bffa15fd0bb4bee51c13b
+SHA512: c8d052ff2c15cec30706de757928e9cbe9fa44facb239b158b813ed260f4995e51657d4dc8a3daef2cdb849cf3e4f1c49caf573ae4175b6def3233dba72defe8
+Description: macOS Mojave for iOS
+  Bring macOS experience to your iOS device.
+  .
+  It's now compatible with iOS 11 iPhone, iPad or iPod Touch
+  .
+  With 350+ redesigned icons, loading wheel.
+  .
+  iPad compatibility make sure you selected iPad calendar, if you re using an iPhone you don't need it.
+Changelog: Works on iOS up to 13.5.1
+  Add Some Icon(SofaScore, Premier League, Trix ...)
+  .
+  Update Some Icon.
+Name: Ace High Sierra
+Previews: https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_1.png, https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_2.png, https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_3.png
+Header: https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/banner.png
+Author: iAnas
+Depiction: https://mhmdsabdlh.github.io/Repo/depiction/web/com.MhmdSAbdlh.acehighsierra.html
+Prefer-Native: Yes
+Icon: https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/icon.png
+Homepage: https://mhmdsabdlh.github.io
+Tag: compatible::6.0-13.5
+Installed-Size: 18400
+
