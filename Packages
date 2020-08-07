@@ -1,4 +1,4 @@
-ackage: com.mhmdsabdlh.acehighsierra
+Package: com.mhmdsabdlh.acehighsierra
 Version: 5.2
 Section: Themes
 Maintainer: MhmdSAbdlh <mohamadabdlh95@gmail.com>
@@ -23,12 +23,12 @@ Changelog: Works on iOS up to 13.5.1
   .
   Update Some Icon.
 Name: Ace High Sierra
-Previews: https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_1.png, https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_2.png, https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_3.png
-Header: https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/banner.png
+Previews: https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_1.png, https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_2.png, https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/screenshot/screenshot_3.png
+Header: https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/banner.png
 Author: iAnas
-Depiction: https://mhmdsabdlh.github.io/Repo/depiction/web/com.MhmdSAbdlh.acehighsierra.html
+Depiction: https://mhmdsabdlh.github.io/Silica/depiction/web/com.MhmdSAbdlh.acehighsierra.html
 Prefer-Native: Yes
-Icon: https://mhmdsabdlh.github.io/Repo/assets/com.MhmdSAbdlh.acehighsierra/icon.png
+Icon: https://mhmdsabdlh.github.io/Silica/assets/com.MhmdSAbdlh.acehighsierra/icon.png
 Homepage: https://mhmdsabdlh.github.io
 Tag: compatible::6.0-13.5
 Installed-Size: 18400
